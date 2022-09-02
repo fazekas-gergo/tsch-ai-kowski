@@ -1,2 +1,2 @@
-FROM continuumio/miniconda3:4.12.0
-LABEL Name=tschaikowski Version=0.0.1
+FROM nvcr.io/partners/gridai/pytorch-lightning:v1.4.0
+LABEL Name=tsch_ai_kowski Version=0.0.1
